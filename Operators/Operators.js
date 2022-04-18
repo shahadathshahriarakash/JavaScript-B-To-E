@@ -41,6 +41,6 @@ a = x > y;
 b = x < y;
 c = x === z;
 
-a && c // AND (Both Condition True = True)
-a || b // OR (One Condition True = True)
-!c // NOT (Reverse the boolean Value)
+a && c; // AND (Both Condition True = True)
+a || b; // OR (One Condition True = True)
+!c; // NOT (Reverse the boolean Value)
