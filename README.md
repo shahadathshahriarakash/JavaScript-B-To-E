@@ -5,7 +5,7 @@
 
 > [2. Operators](https://github.com/shahadathshahriarakash/JavaScript-B-To-E/tree/master/Operators)
 
-> [3. Control Flow](https://github.com/shahadathshahriarakash/JavaScript-B-To-E/tree/master/Control-Flow)
+> [3. Control-Flow](https://github.com/shahadathshahriarakash/JavaScript-B-To-E/tree/master/Control-Flow)
 
 > [4. Objects](https://github.com/shahadathshahriarakash/JavaScript-B-To-E/tree/master/Objects)
 
